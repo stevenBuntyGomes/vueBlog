@@ -1,0 +1,21 @@
+// await method for sending datas to store in databae starts
+                //
+                // const res = await this.callApi('post', '/app/create_category', this.data);
+                // if(res.status == 200){
+                //     // console.log(this.data);
+                //     this.success('the tagName has been added successfully.')
+                //     this.addModal = false
+                //     this.data.categoryName = ''
+                //     this.data.iconImage = ''
+                // }else{
+                //     // this.error('something is going wrong');
+                //     if(res.status == 422){
+                //         if(res.data.errors.tagName){
+                //             this.i(res.data.errors.tagName[0]);
+                //         }
+                //         console.log(res.data.errors);
+                //     }
+                // }
+                //
+
+                // await method for sending datas to store in databae ends
